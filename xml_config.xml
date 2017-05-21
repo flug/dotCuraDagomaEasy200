@@ -184,7 +184,7 @@
       <layer_height>0.15</layer_height>
       <solid_layer_thickness>1.05</solid_layer_thickness>
       <wall_thickness>1.2</wall_thickness>
-      <print_speed>50</print_speed>
+      <print_speed>45</print_speed>
       <temp_preci>5</temp_preci>
       <travel_speed>60</travel_speed>
       <bottom_layer_speed>17</bottom_layer_speed>
